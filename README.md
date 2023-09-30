@@ -2,8 +2,9 @@
 - 👀 I’m interested in making connections with people with common interest
 - 🌱 I’m currently learning c language
 - 💞️ I’m looking to collaborate on basic projects
-- 📫 you can reach out to me through linkedin account: www.linkedin.com/in/
-md-kaif-75b56b288
+- 📫 you can reach out to me through linkedin account:www.linkedin.com/in/md-kaif-75b56b288
+
+ 
 
 
 
